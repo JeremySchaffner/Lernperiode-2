@@ -88,3 +88,17 @@ Zukunft mit aus dieser Lernperiode?
 Umfang: 100 - 200 Wörter (ungefähr 6 - 12 Sätze)
 
 ...Ihr Text...
+
+
+
+### Lernperioden Planung 06.11.2026
+*/[x] Modul 320_1200
+*/[x] Modul 320_1210
+*/[x] Modul 320_1220
+*/[x] Modul 320_1240
+*/[x] Modul 320_1250
+
+### Tagesreflexion 06.11.2026
+Ich denke Heute konnte ich sehr gut und auch kontzentriert arbeiten. Ich bin gut voran gekommen und habe es geschafft all meine geplanten Aufgaben fertig zu arbeiten.
+Ich denke die neuen Bildschirme haben mir sehr geholfen bei der Konzentration und Motivation da ich durch die bessere Auflösung und den grösseren Bildschirm nicht so nah und genau hinschauen musste und dadurch meine Augen geschont habe. 
+
