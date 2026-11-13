@@ -102,3 +102,12 @@ Umfang: 100 - 200 Wörter (ungefähr 6 - 12 Sätze)
 Ich denke Heute konnte ich sehr gut und auch kontzentriert arbeiten. Ich bin gut voran gekommen und habe es geschafft all meine geplanten Aufgaben fertig zu arbeiten.
 Ich denke die neuen Bildschirme haben mir sehr geholfen bei der Konzentration und Motivation da ich durch die bessere Auflösung und den grösseren Bildschirm nicht so nah und genau hinschauen musste und dadurch meine Augen geschont habe. 
 
+### Lernperioden Planung 13.11.2026
+*/[x] Modul 320 mit teil 3 anfangen
+*/[] Modul 320 teil 3 abschliessen
+*/[x] unity herunterladen
+*/[x] mich über unity informieren (tutorial z.B)
+*/[]Mit unity anfangen
+
+### Tagesreflexion 13.11.2026
+Ich bin heute ein wenig enteuscht von mir, da ich meine Ziele nicht erreicht habe, und auch beim Modul nicht gut vorangekommen bin.
